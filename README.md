@@ -1,20 +1,28 @@
 # 💫 About Me:
 👋 Hi, I'm **Aniket Mehatar**  
-🚀 A passionate **Full-Stack Developer (MERN + Laravel)** & **Mobile App Developer (React Native)**  
-🎯 Currently learning **Advanced MERN Stack, React Native & Linux (RHCSA level)**  
+🚀 A **Full-Stack Developer (MERN)** & **Mobile App Developer (React Native)**  
+🎯 Currently learning **PHP Laravel & Linux System Administration**  
 💡 Interested in **Backend Development, APIs, Mobile Apps & Scalable Systems**  
 📍 From India  
 
 ---
 
 ## 🧠 Currently Learning:
-- ⚛️ **Advanced React.js**
-- 📱 **React Native** (Android Apps)
-- 🟢 **Node.js & Express** (REST APIs)
-- 🐘 **PHP Laravel** (MVC, APIs, Migrations)
-- 🍃 **MongoDB** (Aggregation & Optimization)
-- 🐧 **Linux System Administration (RHCSA)**
-- 🔐 Authentication & Authorization (JWT)
+- 🐘 **PHP Laravel** (MVC, APIs, Migrations, Authentication)
+- 🐧 **Linux System Administration** (Users, Permissions, Services, RHCSA level)
+
+---
+
+## ✅ Technologies I Have Learned:
+- ⚛️ **React.js**
+- 📱 **React Native**
+- 🟢 **Node.js & Express.js**
+- 🍃 **MongoDB**
+- 🗄 **MySQL**
+- 🌐 **HTML, CSS, JavaScript**
+- ☕ **Java**
+- 🔐 **JWT Authentication**
+- 🧰 **Git & GitHub**
 
 ---
 
@@ -49,15 +57,16 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
 ## 🚀 Project Highlights:
-- 📱 **React Native Mobile Apps** (Android)
+- 📱 **React Native Mobile Applications**
 - 📹 **Zoom-like Video Calling App (MERN)**
 - 🚕 **Taxi Booking Web Application**
-- 🛒 **Laravel REST APIs & Backend Systems**
+- 🛒 **Laravel Backend & REST APIs**
 - 🎮 **Simon Says Game**
 
 ---
@@ -80,6 +89,6 @@
 ---
 
 ### ✨ Quote I Believe In:
-> **"Learn deeply. Build consistently. Grow relentlessly."**
+> **"Be honest about your skills. Growth will follow."**
 
 <!-- Proudly customized by Aniket Mehatar -->
